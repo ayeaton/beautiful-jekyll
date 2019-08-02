@@ -42,10 +42,10 @@ title-img: /img/myface.jpeg
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#77212E"
+navbar-col: "#008080"
 navbar-text-col: "#404040"
-navbar-children-col: "#9B1B30"
-page-col: "#F5D6C6"
+navbar-children-col: "#66CDAA"
+page-col: "#F0EFEF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
