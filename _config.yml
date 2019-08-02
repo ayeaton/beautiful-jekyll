@@ -43,7 +43,7 @@ avatar: "/img/avatar_myface.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#008080"
-navbar-text-col: "#FFFFFF"
+navbar-text-col: "00008B"
 navbar-children-col: "#66CDAA"
 page-col: "#F0EFEF"
 link-col: "#008AFF"
@@ -64,7 +64,7 @@ navbar-img: "/img/microbiome_3.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Angelina Volkova
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
