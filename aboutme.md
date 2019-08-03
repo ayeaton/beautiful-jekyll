@@ -7,4 +7,4 @@ Hi there! My name is Angelina Volkova. I am a PhD Candidate at NYU Medical Cente
 
 ### My Curriculum Vitae 
 
-[CV](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
+Here is a link: [CV](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
