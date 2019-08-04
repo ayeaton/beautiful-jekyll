@@ -7,4 +7,4 @@ Hi there! My name is Angelina Volkova. I am a PhD Candidate at NYU Medical Cente
 
 ### My Curriculum Vitae 
 
-Here is a link: [CV](/_data/cv_08_04_19.pdf)
+Here is a link: [CV](https://github.com/avolkova1593/avolkova1593.github.io/_data/cv_08_04_19.pdf)
