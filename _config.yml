@@ -24,8 +24,8 @@ description: Summary of microbiome papers
 # List of links in the navigation bar
 navbar-links:
   Key Papers:
-    - HMP paper
-    - Ethnity and Geography
+    - HMP paper: "https://www.nature.com/articles/nature11234"
+    - Ethnity and Geography: "https://www.nature.com/articles/nature11053"
    # - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
 
