@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-col: "#267346"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#b9b0b0"
 page-col: "#F0efef"
 link-col: "#008AFF"
 hover-col: "#0085A1"
