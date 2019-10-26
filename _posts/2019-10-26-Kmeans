@@ -1,1 +1,7 @@
-
+---
+layout: page
+title: Kmeans
+subtitle: Kmeans by hand
+use-site-title: true
+---
+Kmeans!
