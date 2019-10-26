@@ -1,3 +1,10 @@
+---
+layout: page
+title: TheDataNotes
+subtitle: Data science in plain English
+use-site-title: true
+---
+
 HW2 Solutions
 ================
 
