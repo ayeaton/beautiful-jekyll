@@ -21,8 +21,8 @@ description: .
 # List of links in the navigation bar
 navbar-links:
   Tutorials:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Clustering: "https://www.thedatanotes.com/2020-01-02-kmeans/"
+    - Machine Learning: "https://www.thedatanotes.com/2020-01-02-kmeans/"
   About Us: "aboutme"
 
 
